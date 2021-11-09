@@ -1,0 +1,14 @@
+{
+    "name": "patricio/tp-tests-unitarios",
+    "description": "Tp Final IS2",
+    "type": "proyect",
+    "license": "GPL",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
